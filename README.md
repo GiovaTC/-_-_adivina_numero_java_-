@@ -41,14 +41,14 @@ AdivinaNumeroJava
         └── java
             └── com
                 └── ejemplo
-                    └── Main.java
+                    └── main.java.com.ejemplo.Main.java
 ```
 
 ---
 
 # 💻 Código fuente
 
-## Main.java
+## main.java.com.ejemplo.Main.java
 
 ```java
 package com.ejemplo;
@@ -56,7 +56,7 @@ package com.ejemplo;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class main.java.com.ejemplo.Main {
 
     public static void main(String[] args) {
 
@@ -213,10 +213,10 @@ Mostrar
 2. Abrir el archivo:
 
 ```text
-src/main/java/com/ejemplo/Main.java
+src/main/java/com/ejemplo/main.java.com.ejemplo.Main.java
 ```
 
-3. Ejecutar la clase **Main**.
+3. Ejecutar la clase **main.java.com.ejemplo.Main**.
 
 4. Escribir números entre **1 y 100** hasta adivinar el número generado.
 
