@@ -1,7 +1,9 @@
 # -_-_adivina_numero_java_- :.
 # 🎯 AdivinaNumeroJava:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/3a155bdf-3528-4b0d-9655-83ab27e0a12b" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/3a155bdf-3528-4b0d-9655-83ab27e0a12b" />    
+
+<img width="1282" height="1079" alt="image" src="https://github.com/user-attachments/assets/4766e800-1a43-4ee9-8825-d231632535c9" />    
 
 ```
 
